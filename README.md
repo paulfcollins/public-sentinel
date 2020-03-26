@@ -2,4 +2,6 @@
 
 GitHub repo for sharing of Azure Sentinel projects
 
-<p>Ingest Fastly Logs in Azure Sentinel</p>
+<ul>
+  <li>Ingest Fastly Logs in Azure Sentinel</li>
+</ul>
