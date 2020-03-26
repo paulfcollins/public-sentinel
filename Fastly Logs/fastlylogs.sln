@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fastlylogs", "fastlylogs.csproj", "{150B44A5-7D00-4410-B916-FEBB3EFAB9C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{150B44A5-7D00-4410-B916-FEBB3EFAB9C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{150B44A5-7D00-4410-B916-FEBB3EFAB9C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{150B44A5-7D00-4410-B916-FEBB3EFAB9C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{150B44A5-7D00-4410-B916-FEBB3EFAB9C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B59AD8D-ECCD-4C8F-8059-B21B878C6B57}
+	EndGlobalSection
+EndGlobal
